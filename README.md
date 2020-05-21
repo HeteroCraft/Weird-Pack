@@ -3,7 +3,7 @@
 
 
 ### 安装
-[点击](https://github.com/HeteroCraft/Weird-Pack/blob/master/WeirdPackVer0.0.1.mcpack)下载WeildPack:Ver0.0.1
+[点击](https://github.com/HeteroCraft/Weird-Pack/archive/master.zip)下载WeildPack:Ver0.0.1
 
 
 ### 更新日志
